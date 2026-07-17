@@ -1,29 +1,50 @@
-# Week 01
+# Week 01 — Expected Value Explorer
 
-## Project Goal
+## Goal
+Build the first interactive mathematical finance visualization.
 
-Build visualizations that connect mathematics, probability, and finance.
+## Mathematical Concepts Learned
 
-## Setup 
-
-- Created React + TypeScript project using Vite
-- Configured ESLint
-- Set up GitHub repository
-- Learned basic React project structure
-
-## Current Focus
-
-Building the Expected Value Visualization.
-
-## Math Concepts
-
-- Random variables
+- Discrete random variables
 - Probability distributions
 - Expected value
 
-## Next
+Formula:
 
-- Build the first interactive visualization
-- Add visualizations
-- Learn Plotly and KaTeX
+E(X) = Σ xP(X=x)
 
+## Finance Concepts Learned
+
+- Expected return
+- Risk and uncertainty
+- Positive expected value does not guarantee profit
+- Average outcome vs individual outcome
+
+## What I Built
+
+Created an interactive Expected Value Visualization.
+
+Features:
+- Probability slider
+- Reward/loss sliders
+- Real-time expected value calculation
+- Probability distribution visualization
+- Finance interpretation panel
+
+## Programming Concepts Learned
+
+React:
+- Components
+- State management with useState
+- Passing data through props
+
+Libraries:
+- Plotly for visualization
+- TypeScript for safer code
+
+## Next Module
+
+Coin Toss Simulator:
+- Law of Large Numbers
+- Simulation
+- Random variables
