@@ -16,6 +16,12 @@ Built with:
 - TypeScript
 - Plotly
 
+## Demo:
+
+View the project:
+
+https://visual-math-in-finance.vercel.app/
+
 ## Goal
 
 Connect mathematical concepts with financial intuition through interactive models.
