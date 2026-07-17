@@ -1,0 +1,29 @@
+# Week 01
+
+## Project Goal
+
+Build visualizations that connect mathematics, probability, and finance.
+
+## Setup 
+
+- Created React + TypeScript project using Vite
+- Configured ESLint
+- Set up GitHub repository
+- Learned basic React project structure
+
+## Current Focus
+
+Building the Expected Value Visualization.
+
+## Math Concepts
+
+- Random variables
+- Probability distributions
+- Expected value
+
+## Next Steps
+
+- Build the first interactive visualization
+- Add graphs
+- Learn Plotly and KaTeX
+
