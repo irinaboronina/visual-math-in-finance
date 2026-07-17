@@ -1,3 +1,10 @@
+# Visual_math_in_finance
+Visual math in finance is an educational project that explains mathematical concept behind economics and finance through interactive visualization. This project is inspired by Brown University's Seeing Theory, which is aimed at exploring mathematical concepts such as probability and expected value through interactive models. 
+# Current modules:
+# Future modules:
+# Learning resources:
+# Technology used:
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
